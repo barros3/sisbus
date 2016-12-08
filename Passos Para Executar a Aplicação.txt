@@ -1,0 +1,11 @@
+﻿1. Alterar o usuário e senha do banco de dados em "config" nas classes "AppWebConfiguration" e "JPAConfiguration"
+
+2. Criar um banco de dados com o nome "sisbusdb_local"
+
+3. Rodar a aplicação no servidor
+
+4. Acessar o banco de dados e rodar o script no arquivo "Script ADMIN_MASTER.sql"
+
+5. Acessar a URL "localhost:8080/estagio"
+
+6. Entrar com o login: "admin" e senha: "123"
